@@ -16,7 +16,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
 # [objectives](https://github.com/playproject-io/roadmapping#objectives)
 1. [org-page](https://github.com/serapath/serapath.github.io)
     * [...](#related repo links)
-2. ...
+2. [playproject](https://github.com/playproject-io/roadmapping)
 
 ---
 # changelog
